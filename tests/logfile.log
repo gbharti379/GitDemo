@@ -1,0 +1,142 @@
+2022-03-15 23:33:09,691 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-15 23:33:09,862 :INFO : test_formsubmission :You got it
+2022-03-15 23:33:10,037 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-15 23:33:10,037 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-15 23:33:10,221 :INFO : test_formsubmission :You got it
+2022-03-15 23:33:10,221 :INFO : test_formsubmission :You got it
+2022-03-16 14:38:53,414 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-16 14:38:53,879 :INFO : test_formsubmission :You got it
+2022-03-16 14:38:54,157 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 14:38:54,157 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 14:38:54,526 :INFO : test_formsubmission :You got it
+2022-03-16 14:38:54,526 :INFO : test_formsubmission :You got it
+2022-03-16 14:39:46,558 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-16 14:39:46,833 :INFO : test_formsubmission :You got it
+2022-03-16 14:39:47,071 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 14:39:47,071 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 14:39:47,485 :INFO : test_formsubmission :You got it
+2022-03-16 14:39:47,485 :INFO : test_formsubmission :You got it
+2022-03-16 14:46:04,651 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-16 14:46:04,941 :INFO : test_formsubmission :You got it
+2022-03-16 14:46:05,240 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 14:46:05,240 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 14:46:05,593 :INFO : test_formsubmission :You got it
+2022-03-16 14:46:05,593 :INFO : test_formsubmission :You got it
+2022-03-16 14:46:42,385 :INFO : test_e2e :iphone X
+2022-03-16 14:46:42,436 :INFO : test_e2e :Samsung Note 8
+2022-03-16 14:46:42,485 :INFO : test_e2e :Nokia Edge
+2022-03-16 14:46:42,538 :INFO : test_e2e :Blackberry
+2022-03-16 14:46:42,555 :INFO : test_e2e :Checking the Product based on name
+2022-03-16 14:46:42,957 :INFO : test_e2e :Selecting the Country name India
+2022-03-16 14:46:48,367 :INFO : test_e2e :Capturing Screenshot
+2022-03-16 14:56:41,854 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-16 14:56:42,257 :INFO : test_formsubmission :You got it
+2022-03-16 14:56:43,633 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 14:56:43,633 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 14:56:44,261 :INFO : test_formsubmission :You got it
+2022-03-16 14:56:44,261 :INFO : test_formsubmission :You got it
+2022-03-16 14:57:27,952 :INFO : test_e2e :iphone X
+2022-03-16 14:57:27,974 :INFO : test_e2e :Samsung Note 8
+2022-03-16 14:57:27,994 :INFO : test_e2e :Nokia Edge
+2022-03-16 14:57:28,014 :INFO : test_e2e :Blackberry
+2022-03-16 14:57:28,023 :INFO : test_e2e :Checking the Product based on name
+2022-03-16 14:57:28,920 :INFO : test_e2e :Selecting the Country name India
+2022-03-16 14:57:34,864 :INFO : test_e2e :Capturing Screenshot
+2022-03-16 15:08:33,498 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-16 15:08:34,250 :INFO : test_formsubmission :You got it
+2022-03-16 15:08:34,711 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 15:08:34,711 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-16 15:08:35,067 :INFO : test_formsubmission :You got it
+2022-03-16 15:08:35,067 :INFO : test_formsubmission :You got it
+2022-03-16 15:09:10,764 :INFO : test_e2e :iphone X
+2022-03-16 15:09:10,817 :INFO : test_e2e :Samsung Note 8
+2022-03-16 15:09:10,870 :INFO : test_e2e :Nokia Edge
+2022-03-16 15:09:10,929 :INFO : test_e2e :Blackberry
+2022-03-16 15:09:10,947 :INFO : test_e2e :Checking the Product based on name
+2022-03-16 15:09:11,617 :INFO : test_e2e :Selecting the Country name India
+2022-03-16 15:09:17,556 :INFO : test_e2e :Capturing Screenshot
+2022-03-17 09:13:16,624 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-17 09:13:16,953 :INFO : test_formsubmission :You got it
+2022-03-17 09:13:17,281 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-17 09:13:17,281 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-17 09:13:17,597 :INFO : test_formsubmission :You got it
+2022-03-17 09:13:17,597 :INFO : test_formsubmission :You got it
+2022-03-17 09:13:32,877 :INFO : test_e2e :iphone X
+2022-03-17 09:13:32,900 :INFO : test_e2e :Samsung Note 8
+2022-03-17 09:13:32,923 :INFO : test_e2e :Nokia Edge
+2022-03-17 09:13:32,948 :INFO : test_e2e :Blackberry
+2022-03-17 09:13:32,965 :INFO : test_e2e :Checking the Product based on name
+2022-03-17 09:14:18,716 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-17 09:14:19,004 :INFO : test_formsubmission :You got it
+2022-03-17 09:14:19,258 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-17 09:14:19,258 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-17 09:14:19,546 :INFO : test_formsubmission :You got it
+2022-03-17 09:14:19,546 :INFO : test_formsubmission :You got it
+2022-03-17 09:14:41,237 :INFO : test_e2e :iphone X
+2022-03-17 09:14:41,263 :INFO : test_e2e :Samsung Note 8
+2022-03-17 09:14:41,289 :INFO : test_e2e :Nokia Edge
+2022-03-17 09:14:41,313 :INFO : test_e2e :Blackberry
+2022-03-17 09:14:41,327 :INFO : test_e2e :Checking the Product based on name
+2022-03-17 09:29:25,960 :INFO : test_e2e :iphone X
+2022-03-17 09:29:26,005 :INFO : test_e2e :Samsung Note 8
+2022-03-17 09:29:26,049 :INFO : test_e2e :Nokia Edge
+2022-03-17 09:29:26,095 :INFO : test_e2e :Blackberry
+2022-03-17 09:29:26,112 :INFO : test_e2e :Checking the Product based on name
+2022-03-17 18:36:03,601 :INFO : test_e2e :iphone X
+2022-03-17 18:36:03,642 :INFO : test_e2e :Samsung Note 8
+2022-03-17 18:36:03,680 :INFO : test_e2e :Nokia Edge
+2022-03-17 18:36:03,722 :INFO : test_e2e :Blackberry
+2022-03-17 18:36:03,738 :INFO : test_e2e :Checking the Product based on name
+2022-03-17 18:44:12,577 :INFO : test_e2e :iphone X
+2022-03-17 18:44:12,617 :INFO : test_e2e :Samsung Note 8
+2022-03-17 18:44:12,658 :INFO : test_e2e :Nokia Edge
+2022-03-17 18:44:12,700 :INFO : test_e2e :Blackberry
+2022-03-17 18:44:12,714 :INFO : test_e2e :Checking the Product based on name
+2022-03-17 18:58:53,239 :INFO : test_e2e :iphone X
+2022-03-17 18:58:53,255 :INFO : test_e2e :Samsung Note 8
+2022-03-17 18:58:53,271 :INFO : test_e2e :Nokia Edge
+2022-03-17 18:58:53,289 :INFO : test_e2e :Blackberry
+2022-03-17 19:01:16,164 :INFO : test_e2e :iphone X
+2022-03-17 19:01:16,179 :INFO : test_e2e :Samsung Note 8
+2022-03-17 19:01:16,194 :INFO : test_e2e :Nokia Edge
+2022-03-17 19:01:16,208 :INFO : test_e2e :Blackberry
+2022-03-17 19:02:59,560 :INFO : test_e2e :iphone X
+2022-03-17 19:02:59,609 :INFO : test_e2e :Samsung Note 8
+2022-03-17 19:02:59,660 :INFO : test_e2e :Nokia Edge
+2022-03-17 19:02:59,713 :INFO : test_e2e :Blackberry
+2022-03-17 19:03:00,083 :INFO : test_e2e :Selecting the Country name India
+2022-03-17 19:03:05,220 :INFO : test_e2e :Capturing Screenshot
+2022-03-17 19:05:17,064 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-17 19:05:17,238 :INFO : test_formsubmission :You got it
+2022-03-17 19:05:17,433 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-17 19:05:17,433 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-17 19:05:17,640 :INFO : test_formsubmission :You got it
+2022-03-17 19:05:17,640 :INFO : test_formsubmission :You got it
+2022-03-17 19:05:52,664 :INFO : test_e2e :iphone X
+2022-03-17 19:05:52,706 :INFO : test_e2e :Samsung Note 8
+2022-03-17 19:05:52,746 :INFO : test_e2e :Nokia Edge
+2022-03-17 19:05:52,786 :INFO : test_e2e :Blackberry
+2022-03-17 19:05:53,098 :INFO : test_e2e :Selecting the Country name India
+2022-03-17 19:05:58,261 :INFO : test_e2e :Capturing Screenshot
+2022-03-21 12:26:44,450 :INFO : test_formsubmission :Getting the name : Gulshan
+2022-03-21 12:26:44,635 :INFO : test_formsubmission :You got it
+2022-03-21 12:26:44,838 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-21 12:26:44,838 :INFO : test_formsubmission :Getting the name : Bharti
+2022-03-21 12:26:45,084 :INFO : test_formsubmission :You got it
+2022-03-21 12:26:45,084 :INFO : test_formsubmission :You got it
+2022-03-21 12:26:47,970 :INFO : test_e2e :iphone X
+2022-03-21 12:26:47,985 :INFO : test_e2e :Samsung Note 8
+2022-03-21 12:26:48,000 :INFO : test_e2e :Nokia Edge
+2022-03-21 12:26:48,014 :INFO : test_e2e :Blackberry
+2022-03-21 12:26:48,234 :INFO : test_e2e :Selecting the Country name India
+2022-03-21 12:26:53,406 :INFO : test_e2e :Capturing Screenshot
+2022-03-22 14:22:38,808 :INFO : test_e2e :iphone X
+2022-03-22 14:22:38,859 :INFO : test_e2e :Samsung Note 8
+2022-03-22 14:22:38,912 :INFO : test_e2e :Nokia Edge
+2022-03-22 14:22:38,966 :INFO : test_e2e :Blackberry
+2022-03-22 20:21:16,411 :INFO : test_e2e :iphone X
+2022-03-22 20:21:16,462 :INFO : test_e2e :Samsung Note 8
+2022-03-22 20:21:16,514 :INFO : test_e2e :Nokia Edge
+2022-03-22 20:21:16,552 :INFO : test_e2e :Blackberry
+2022-03-22 20:21:16,900 :INFO : test_e2e :Selecting the Country name India
+2022-03-22 20:21:22,063 :INFO : test_e2e :Capturing Screenshot
